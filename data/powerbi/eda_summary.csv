@@ -1,0 +1,12 @@
+metric,value
+total_customers,7032.0
+churn_rate,0.2658
+avg_tenure,32.42
+avg_monthly_charges,64.8
+pct_month_to_month,0.5511
+pct_fibre_optic,0.4403
+pct_senior_citizen,0.1624
+avg_tenure_churned,17.98
+avg_tenure_retained,37.65
+avg_charges_churned,74.44
+avg_charges_retained,61.31

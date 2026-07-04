@@ -1,0 +1,4 @@
+risk_segment,customer_count,avg_monthly_charges,total_monthly_revenue,estimated_monthly_churn_revenue_loss
+High Risk,979,76.8,75188.5,61139.26
+Low Risk,4472,59.44,265821.3,35266.27
+Medium Risk,1581,72.52,114651.2,63679.67

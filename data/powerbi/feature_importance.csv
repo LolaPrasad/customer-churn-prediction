@@ -1,0 +1,16 @@
+rank,feature,mean_shap_value
+1,num_services,4.5239466138777376
+2,MonthlyCharges,3.9492738482441294
+3,StreamingMovies,1.641115473040705
+4,StreamingTV,1.5998421406338943
+5,PhoneService,1.5158340393602605
+6,OnlineBackup,1.4802368199326883
+7,DeviceProtection,1.432330206427159
+8,OnlineSecurity,1.383157730932134
+9,MultipleLines_Yes,1.3701147809752003
+10,tenure,1.355577541487642
+11,Contract_Two year,1.2616953854556496
+12,TechSupport,1.2219569353898103
+13,avg_monthly_spend,1.1640076806902693
+14,is_long_term_contract,1.0944296231946145
+15,InternetService_Fiber optic,1.0451729760209427

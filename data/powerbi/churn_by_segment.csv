@@ -1,0 +1,19 @@
+segment_type,segment_value,total_customers,churned_customers,churn_rate
+Contract,Month-to-month,3875,1655,0.4271
+Contract,One year,1472,166,0.1128
+Contract,Two year,1685,48,0.0285
+InternetService,DSL,2416,459,0.19
+InternetService,Fiber optic,3096,1297,0.4189
+InternetService,No,1520,113,0.0743
+PaymentMethod,Bank transfer (automatic),1542,258,0.1673
+PaymentMethod,Credit card (automatic),1521,232,0.1525
+PaymentMethod,Electronic check,2365,1071,0.4529
+PaymentMethod,Mailed check,1604,308,0.192
+SeniorCitizen,No,5890,1393,0.2365
+SeniorCitizen,Yes,1142,476,0.4168
+tenure_group,0-12 months,2175,1037,0.4768
+tenure_group,13-24 months,1024,294,0.2871
+tenure_group,25-36 months,832,180,0.2163
+tenure_group,37-48 months,762,145,0.1903
+tenure_group,49-60 months,832,120,0.1442
+tenure_group,61-72 months,1407,93,0.0661
