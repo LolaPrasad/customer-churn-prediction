@@ -1,0 +1,29 @@
+feature,mean_abs_shap_value
+num_services,4.5239466138777376
+MonthlyCharges,3.9492738482441294
+StreamingMovies,1.641115473040705
+StreamingTV,1.5998421406338943
+PhoneService,1.5158340393602605
+OnlineBackup,1.4802368199326883
+DeviceProtection,1.432330206427159
+OnlineSecurity,1.3831577309321341
+MultipleLines_Yes,1.3701147809752003
+tenure,1.355577541487642
+Contract_Two year,1.2616953854556496
+TechSupport,1.2219569353898103
+avg_monthly_spend,1.1640076806902693
+is_long_term_contract,1.0944296231946145
+InternetService_Fiber optic,1.0451729760209427
+TotalCharges,1.0315668296692944
+Contract_One year,0.9703803358049847
+InternetService_No,0.7866235170181216
+MultipleLines_No phone service,0.4171584477361715
+PaymentMethod_Mailed check,0.26254217569198207
+PaymentMethod_Credit card (automatic),0.22461687300329458
+Dependents,0.17474660026575878
+PaymentMethod_Electronic check,0.15743218310999874
+gender_Male,0.12471284324118817
+Partner,0.1093702341445143
+high_value_customer,0.08340931467215351
+PaperlessBilling,0.0351767825308162
+SeniorCitizen,0.02241697317221476
